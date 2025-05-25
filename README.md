@@ -1,8 +1,8 @@
-**Null Class — Data Science Internship Project**
+**Null Class - Data Science Internship Project**
 
-**Project Overview**
+**Tasks Overview**
 
-This project was developed during my Data Science internship and focuses on building a text-to-image generation pipeline. It involves tokenizing and encoding text with pre-trained language models, exploring multimodal datasets, fine-tuning advanced generative models, and improving GANs with attention mechanisms for better image quality.
+This repository contains taks that was developed during my Data Science internship and focuses on building a text-to-image generation pipeline. It involves tokenizing and encoding text with pre-trained language models, exploring multimodal datasets, fine-tuning advanced generative models, and improving GANs with attention mechanisms for better image quality.
 
 **Features**
 
